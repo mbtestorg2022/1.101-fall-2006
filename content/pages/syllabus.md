@@ -62,10 +62,47 @@ Grading
 
 Grades will be based both on participation and on the design and laboratory reports. Participation comprises attendance, attitude, and industry in class, as well as the keeping of a clear and accurate project notebook. Overall weighting will be as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Design Task Reports and Portfolio | 50% |
-| Laboratory Experiments | 30% |
-| Active Participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Task Reports and Portfolio
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There is no final exam.
