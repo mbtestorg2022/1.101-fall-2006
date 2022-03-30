@@ -5,6 +5,7 @@ description: This file is resource which contains information on Torsion of Circ
   design task.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/4d1024294396f5754d66f00ed107f734_analysis1.pdf
 file_type: application/pdf
+parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: analysis1.pdf
 uid: 4d102429-4396-f575-4d66-f00ed107f734
