@@ -4,6 +4,10 @@ description: This file is a resource which contains information on Connection, T
   and Measurements of Water filters.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/c5653d96bbc83ae76b1eba062ebc6741_filter_testing.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Water Resources
+parent_type: CourseSection
 parent_uid: 1a478646-505a-a226-fa0b-d128902fe187
 resourcetype: Document
 title: filter_testing.pdf

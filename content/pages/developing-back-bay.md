@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Developing Back Bay
 uid: cd2f3571-638a-cb4a-7b0b-346dc274fc85
 ---

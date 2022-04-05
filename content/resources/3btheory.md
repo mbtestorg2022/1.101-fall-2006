@@ -4,6 +4,10 @@ description: This file is a resource which contains information on Engineering B
   Theory and Mid-span displacement.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/7ffdc05fdde18a98928c1cfc5b5f5312_3btheory.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Structures
+parent_type: CourseSection
 parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: 3btheory.pdf

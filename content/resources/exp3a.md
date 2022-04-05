@@ -5,6 +5,10 @@ description: This file is a resource which contains information on Tension Test 
   and Analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/074392bc0593c843b3201f50f1c7c4e3_exp3a.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Structures
+parent_type: CourseSection
 parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: exp3a.pdf

@@ -4,6 +4,10 @@ description: This resource discusses about the roles and responsibilities of a t
   engineer.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/ed92bf3a0aa8bed8752b8003d87bd162_thermal.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Delta Game
+parent_type: CourseSection
 parent_uid: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
 resourcetype: Document
 title: thermal.pdf

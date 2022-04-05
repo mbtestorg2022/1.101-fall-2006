@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Delta Game
 uid: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
 ---
